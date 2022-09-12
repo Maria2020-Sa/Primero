@@ -1,27 +1,32 @@
-TIPOS DE LENGUAJES:
+**_TIPOS DE LENGUAJES:_**
 
-*COMPILADOS: va mucho más rápido. Se debe generar cada programa por cada procesador. Máximo rendimiento.
+- _COMPILADOS_: va mucho más rápido. Se debe generar cada programa por cada procesador. Máximo rendimiento.
 C, Higo ,Ensamblador
 
-*INTERPRETADOS: escribo el programa solo una vez. Maxima portabilidad.
+- _INTERPRETADOS:_ escribo el programa solo una vez. Maxima portabilidad.
 Java (no se ejecuta en mi Procesador, sino en un programa que se llama Virtual Machine o JUVM)
 Python
 Per
 PHP
 
-*HÍBRIDOS: compilados e interpretados.
+- _HÍBRIDOS:_ compilados e interpretados.
 ____________________________
 
-TIPADOS: almacenan datos pero hay que detallar que tipo de dato es
+- _TIPADOS_: almacenan datos pero hay que detallar que tipo de dato es
 C, GO, JAVA.
 
-NO TIPADOS: el compilador deduce que tipo de dato es.
+- _NO TIPADOS_: el compilador deduce que tipo de dato es.
 PHP
 ____________________________
 
-APLICACIONES
-WEB - MÓVIL - ESCRITORIO (SON CASI LO MISMO PERO PROGRAMADAS EN DIFERENTES TECNOLOGÍAS SUBYACENTES)
+_APLICACIONES_
+
+WEB - MÓVIL - ESCRITORIO
+
+(SON CASI LO MISMO PERO PROGRAMADAS EN DIFERENTES TECNOLOGÍAS SUBYACENTES)
+
 TODAS SE DIVIDEN EN DOS PARTES:
+
     FRONTEND: DE CHAPA Y PINTURA, ES LO QUE EL USUARIO VÉ. ENVÍA PETICIONES AL BACKEND.
       TRES ELEMENTOS ALTAMENTE COHESIONADOS:
          CÓDIGO HTML: DEFINE LA ESTRUCTURA

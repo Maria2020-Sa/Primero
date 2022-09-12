@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea5c388c-0172-4523-8677-955da6152a9f" name="Changes" comment="Notas" />
+    <list default="true" id="ea5c388c-0172-4523-8677-955da6152a9f" name="Changes" comment="Notas1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Historia Leng Prog" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Historia Leng Prog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Tipos de lenguaje - Aplicaciones" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Tipos de lenguaje - Aplicaciones.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663007057329</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Notas1">
+      <created>1663007156509</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663007156509</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +122,7 @@
     <MESSAGE value="probando" />
     <MESSAGE value="Actualizando" />
     <MESSAGE value="Notas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Notas" />
+    <MESSAGE value="Notas1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Notas1" />
   </component>
 </project>

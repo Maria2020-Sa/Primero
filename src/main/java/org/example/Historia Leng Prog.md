@@ -1,4 +1,4 @@
-Historia de la Programación: LINEA DE TIEMPO DE LOS LENGUAJES DE PROGRAMACIÓN
+## **Historia de la Programación - LINEA DE TIEMPO DE LOS LENGUAJES DE PROGRAMACIÓN**
 
     1940
 Sistema de codificación Eniac --> no era muy amigable
