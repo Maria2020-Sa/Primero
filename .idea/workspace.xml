@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea5c388c-0172-4523-8677-955da6152a9f" name="Changes" comment="tema 1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ea5c388c-0172-4523-8677-955da6152a9f" name="Changes" comment="Tema 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663362358416</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Tema 3">
+      <created>1663364995815</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663364995815</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,6 +214,11 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -236,6 +246,7 @@
     <MESSAGE value="Readme1" />
     <MESSAGE value="teoría1" />
     <MESSAGE value="tema 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="tema 1" />
+    <MESSAGE value="Tema 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tema 3" />
   </component>
 </project>
