@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea5c388c-0172-4523-8677-955da6152a9f" name="Changes" comment="teoría1">
+    <list default="true" id="ea5c388c-0172-4523-8677-955da6152a9f" name="Changes" comment="tema 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/inicial/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/inicial/HolaMundo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
       <recent name="C:\Users\mauge\IdeaProjects\Primero\src\main\java\Teoria" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RECURSIVA">
+  <component name="RunManager" selected="Application.Segundo">
     <configuration name="HolaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.inicial.HolaMundo" />
       <module name="Primero" />
@@ -60,12 +59,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Primera" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OpenBootcamp.Primera" />
+      <module name="Primero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OpenBootcamp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RECURSIVA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.inicial.RECURSIVA" />
       <module name="Primero" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.inicial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Segundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OpenBootcamp.Segundo" />
+      <module name="Primero" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OpenBootcamp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,6 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Segundo" />
+        <item itemvalue="Application.Primera" />
         <item itemvalue="Application.RECURSIVA" />
         <item itemvalue="Application.objeto" />
         <item itemvalue="Application.HolaMundo" />
@@ -166,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663178714860</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="tema 1">
+      <created>1663362358416</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663362358416</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +235,7 @@
     <MESSAGE value="Readme" />
     <MESSAGE value="Readme1" />
     <MESSAGE value="teoría1" />
-    <option name="LAST_COMMIT_MESSAGE" value="teoría1" />
+    <MESSAGE value="tema 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="tema 1" />
   </component>
 </project>
