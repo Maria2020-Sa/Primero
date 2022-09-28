@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea5c388c-0172-4523-8677-955da6152a9f" name="Changes" comment="Tema 3">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ea5c388c-0172-4523-8677-955da6152a9f" name="Changes" comment="refactor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OpenBootcamp/Primera.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OpenBootcamp/Segundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inicial/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/inicial/HolaMundo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inicial/RECURSIVA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/inicial/RECURSIVA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/inicial/objeto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/inicial/objeto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "1.8"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mauge/IdeaProjects/Primero&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.inicial" />
@@ -50,13 +50,13 @@
       <recent name="C:\Users\mauge\IdeaProjects\Primero\src\main\java\Teoria" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Segundo (1)">
-    <configuration name="Primera (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OpenBootcamp.Primera" />
-      <module name="OpenBootcamp" />
+  <component name="RunManager" selected="Application.Secuencial">
+    <configuration name="HolaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.inicial.HolaMundo" />
+      <module name="Primero" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OpenBootcamp.*" />
+          <option name="PATTERN" value="org.inicial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Segundo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OpenBootcamp.Segundo" />
-      <module name="OpenBootcamp" />
+    <configuration name="Secuencial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.inicial.Secuencial" />
+      <module name="Primero" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OpenBootcamp.*" />
+          <option name="PATTERN" value="org.inicial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Segundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OpenBootcamp.Segundo" />
+    <configuration name="objeto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.inicial.objeto" />
       <module name="Primero" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OpenBootcamp.*" />
+          <option name="PATTERN" value="org.inicial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Segundo (1)" />
-        <item itemvalue="Application.Primera (1)" />
-        <item itemvalue="Application.Segundo" />
-        <item itemvalue="Application.Primera" />
+        <item itemvalue="Application.Secuencial" />
         <item itemvalue="Application.RECURSIVA" />
+        <item itemvalue="Application.objeto" />
+        <item itemvalue="Application.HolaMundo" />
+        <item itemvalue="Application.Primera" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663365496698</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="refactor">
+      <created>1663366376174</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663366376174</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,6 +268,7 @@
     <MESSAGE value="teoría1" />
     <MESSAGE value="tema 1" />
     <MESSAGE value="Tema 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tema 3" />
+    <MESSAGE value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
 </project>

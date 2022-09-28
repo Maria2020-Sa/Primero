@@ -3,7 +3,7 @@ package org.inicial;
 public class RECURSIVA {
 //una función recursiva es la que se invoca a si misma.
     public static void main (String [] args){
-        suma (1,5);
+        suma (3,5);
     }
 
     public static int suma (int a, int b){

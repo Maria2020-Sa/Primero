@@ -1,16 +1,18 @@
 package org.inicial;
 
 public class HolaMundo{
-    public static void main(String[] args){
-        int resultado = 0;
-        resultado = suma(4, 3); //PASO DE PARÁMETROS POR VALOR. DUPLICA EL VALOR EN MEMORIA
+  public static void main (String[] args){
+      String estacion = "primavera";
 
-        System.out.println(resultado);
-    }
+      if (estacion == "verano"){
+          System.out.println("La estación es verano!!");
+      }
+      else if (estacion == "invierno"){
+          System.out.println("La estación es Invierno!!");
+      }
+      else{
+          System.out.println("Es otra estación");
+      }
+  }
 
-    public static int suma (int a, int b) {
-        return a + b;
-    }
 }
-
-
